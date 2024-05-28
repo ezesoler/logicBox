@@ -1,6 +1,6 @@
 ![Logic Box](logo.png)
 
-# Logic Box v1.0
+# Logic Box v2.1
 
 Para más detalle sobre le proyecto puedes visitar el siguiente [sitio](https://ezesoler.com/logicbox)
 
@@ -20,3 +20,11 @@ Para más detalle sobre le proyecto puedes visitar el siguiente [sitio](https://
 | CR2025 | 2  | Batería CR2025 de 3V |
 
 Simulación montaje en protoboard en [Tinkercad](https://www.tinkercad.com/things/bEHhhJZuyzz?sharecode=dyOD2t0xn3G-a6pu4hyFaRKaPOuoOR1O2RBs0LghjeE) 
+
+## PCB
+
+![PCB](PCB_capture.png)
+
+## Modelo 3D para impresión
+
+![3D Model](3D_print_capture.png)
