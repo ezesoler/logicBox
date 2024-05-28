@@ -25,12 +25,12 @@ Simulación montaje en protoboard en [Tinkercad](https://www.tinkercad.com/thing
 
 ![PCB](PCB_capture.png)
 
-[Editable](Logic_Box_Schematic.fzz) <br>
-[Gerber](gerber/PCB_LB_v2.1.zip)
+[Editable](Logic_Box_Schematic.fzz "download") <br>
+[Gerber](gerber/PCB_LB_v2.1.zip "download")
 
 ## Modelo 3D para impresión
 
 ![3D Model](3D_print_capture.png)
 
-[Editable \(Fusion 360\)](3D%20Print/Logic%20Box%202.1.f3d) <br>
+[Editable \(Fusion 360\)](3D%20Print/Logic%20Box%202.1.f3d "download") <br>
 [Archivos STL para impresión](3D%20Print/stl)
