@@ -1,6 +1,6 @@
 ![Logic Box](logo.png)
 
-# Logic Box v2.1
+# Logic Box v3.0
 
 Para más detalle sobre le proyecto puedes visitar el siguiente [sitio](https://ezesoler.com/logicbox)
 
@@ -32,5 +32,5 @@ Simulación montaje en protoboard en [Tinkercad](https://www.tinkercad.com/thing
 
 ![3D Model](3D_print_capture.png)
 
-[Editable \(Fusion 360\)](3D%20Print/Logic%20Box%202.1.f3d "download") <br>
+[Editable \(Fusion 360\)](3D%20Print/Logic%20Box%203.0.f3d "download") <br>
 [Archivos STL para impresión](3D%20Print/stl)
